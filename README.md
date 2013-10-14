@@ -1,2 +1,2 @@
-![Before Add](http://github.com/LiuCao/test/blob/master/1.jpeg "Before Add")
-![After  Add](http://github.com/LiuCao/test/blob/master/2.jpeg "After Add")
+![Before Add](https://raw.github.com/LiuCao/test/master/1.jpeg "Before Add")
+![After  Add](https://raw.github.com/LiuCao/test/master/1.jpeg "After Add")
